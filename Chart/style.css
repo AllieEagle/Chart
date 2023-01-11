@@ -1,0 +1,10 @@
+.chart{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(white 40%, transparent 41%), conic-gradient(#FFE873 0% 10%, #ffb13b 10% 20%, #063e6b 20% 30%, #e34c26 30% 40%, #264de4 40% 50%,#FFE873 50% 60%, #ffb13b 60% 70%, #063e6b 70% 80%, #e34c26 80% 90%, #264de4 90% 100%);
+    border-radius: 50%;
+}
